@@ -1,0 +1,20 @@
+
+
+header {
+  border: double black;
+  height: 200px;
+  width: 50%;
+  font-size: 30px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#underScores {
+  border: dotted black;
+  height: 100px;
+  width: 50%;
+  font-size: 50px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 25%;
+}
