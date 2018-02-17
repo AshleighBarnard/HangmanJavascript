@@ -1,4 +1,4 @@
-+//create the array of animal words
+//create the array of animal words
 var wordBank = [
   "dog",
   "cat",
